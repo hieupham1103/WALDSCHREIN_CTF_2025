@@ -1,0 +1,1 @@
+Sửa lại header của file JPEG là được

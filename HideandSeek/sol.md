@@ -1,0 +1,1 @@
+Lọc các kí tự có mã ascii từ 33 đến 126
