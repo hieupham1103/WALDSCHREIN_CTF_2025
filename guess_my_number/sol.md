@@ -1,4 +1,4 @@
-sềErandom sẽ được tạo lại sau mỗi 1 giềEnên có thềEtận dụng thông tin trc đó đềEđoán bằng cnp.
+số random sẽ được tạo lại sau mỗi 1 giờ nên có thể tận dụng thông tin trc đó để đoán bằng cnp.
 
 
 ```
